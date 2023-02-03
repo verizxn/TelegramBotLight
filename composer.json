@@ -1,0 +1,16 @@
+{
+    "name": "verlzon/telegrambotlight",
+    "description": "A light library to handle webhooks Telegram APIs.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Verlzon\\Telegrambotlight\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Verlzon"
+        }
+    ],
+    "require": {}
+}
