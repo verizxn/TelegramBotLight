@@ -1,6 +1,6 @@
 <?php
 
-namespace Verlzon\Telegrambotlight;
+namespace verizxn\Telegrambotlight;
 
 class Telegram {
 	private $token = '';
